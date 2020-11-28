@@ -1,0 +1,24 @@
+body{
+    background-color:"lightcyan";
+
+}
+header{
+    color:chocolate;
+}
+table{
+    background-color:rgb(175, 223, 235);
+    padding: 40px;
+}
+.resetButton{
+    margin-left: 62%;
+    color: rgb(100, 29, 243);
+    background-color: rgb(101, 231, 231);
+}
+#submitId{
+    margin-left: 60%;
+    color:blueviolet;
+    background-color:rgb(40, 194, 245);
+}
+.ErrorMsg{
+color: red;
+}
